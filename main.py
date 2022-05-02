@@ -120,14 +120,6 @@ def talk(sentence):
     engine.runAndWait()
 
 # run the app
-#while True:
- #   listen()  # runs listen one time
+while True:
+   listen()  # runs listen one time
 
-
-print("Phycial body, connected.")
-print("Talk>>")
-print("jarvis switch on light")
-print("Okay, Sure")
-print()
-print("Talk>>")
-print()
